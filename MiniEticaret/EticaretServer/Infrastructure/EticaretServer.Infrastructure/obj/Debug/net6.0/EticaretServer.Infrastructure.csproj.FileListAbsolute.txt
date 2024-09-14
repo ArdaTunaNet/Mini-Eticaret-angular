@@ -1,0 +1,12 @@
+C:\Users\Arda\Desktop\MiniEticaret\EticaretServer\Infrastructure\EticaretServer.Infrastructure\bin\Debug\net6.0\EticaretServer.Infrastructure.deps.json
+C:\Users\Arda\Desktop\MiniEticaret\EticaretServer\Infrastructure\EticaretServer.Infrastructure\bin\Debug\net6.0\EticaretServer.Infrastructure.dll
+C:\Users\Arda\Desktop\MiniEticaret\EticaretServer\Infrastructure\EticaretServer.Infrastructure\bin\Debug\net6.0\EticaretServer.Infrastructure.pdb
+C:\Users\Arda\Desktop\MiniEticaret\EticaretServer\Infrastructure\EticaretServer.Infrastructure\obj\Debug\net6.0\EticaretServer.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Arda\Desktop\MiniEticaret\EticaretServer\Infrastructure\EticaretServer.Infrastructure\obj\Debug\net6.0\EticaretServer.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arda\Desktop\MiniEticaret\EticaretServer\Infrastructure\EticaretServer.Infrastructure\obj\Debug\net6.0\EticaretServer.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Arda\Desktop\MiniEticaret\EticaretServer\Infrastructure\EticaretServer.Infrastructure\obj\Debug\net6.0\EticaretServer.Infrastructure.AssemblyInfo.cs
+C:\Users\Arda\Desktop\MiniEticaret\EticaretServer\Infrastructure\EticaretServer.Infrastructure\obj\Debug\net6.0\EticaretServer.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Arda\Desktop\MiniEticaret\EticaretServer\Infrastructure\EticaretServer.Infrastructure\obj\Debug\net6.0\EticaretServer.Infrastructure.dll
+C:\Users\Arda\Desktop\MiniEticaret\EticaretServer\Infrastructure\EticaretServer.Infrastructure\obj\Debug\net6.0\refint\EticaretServer.Infrastructure.dll
+C:\Users\Arda\Desktop\MiniEticaret\EticaretServer\Infrastructure\EticaretServer.Infrastructure\obj\Debug\net6.0\EticaretServer.Infrastructure.pdb
+C:\Users\Arda\Desktop\MiniEticaret\EticaretServer\Infrastructure\EticaretServer.Infrastructure\obj\Debug\net6.0\ref\EticaretServer.Infrastructure.dll

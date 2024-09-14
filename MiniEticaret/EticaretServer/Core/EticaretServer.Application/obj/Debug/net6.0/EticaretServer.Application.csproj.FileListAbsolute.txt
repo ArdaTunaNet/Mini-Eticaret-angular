@@ -1,0 +1,15 @@
+C:\Users\Arda\Desktop\MiniEticaret\EticaretServer\Core\EticaretServer.Application\bin\Debug\net6.0\EticaretServer.Application.deps.json
+C:\Users\Arda\Desktop\MiniEticaret\EticaretServer\Core\EticaretServer.Application\bin\Debug\net6.0\EticaretServer.Application.dll
+C:\Users\Arda\Desktop\MiniEticaret\EticaretServer\Core\EticaretServer.Application\bin\Debug\net6.0\EticaretServer.Application.pdb
+C:\Users\Arda\Desktop\MiniEticaret\EticaretServer\Core\EticaretServer.Application\bin\Debug\net6.0\EticaretServer.Domain.dll
+C:\Users\Arda\Desktop\MiniEticaret\EticaretServer\Core\EticaretServer.Application\bin\Debug\net6.0\EticaretServer.Domain.pdb
+C:\Users\Arda\Desktop\MiniEticaret\EticaretServer\Core\EticaretServer.Application\obj\Debug\net6.0\EticaretServer.Application.csproj.AssemblyReference.cache
+C:\Users\Arda\Desktop\MiniEticaret\EticaretServer\Core\EticaretServer.Application\obj\Debug\net6.0\EticaretServer.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arda\Desktop\MiniEticaret\EticaretServer\Core\EticaretServer.Application\obj\Debug\net6.0\EticaretServer.Application.AssemblyInfoInputs.cache
+C:\Users\Arda\Desktop\MiniEticaret\EticaretServer\Core\EticaretServer.Application\obj\Debug\net6.0\EticaretServer.Application.AssemblyInfo.cs
+C:\Users\Arda\Desktop\MiniEticaret\EticaretServer\Core\EticaretServer.Application\obj\Debug\net6.0\EticaretServer.Application.csproj.CoreCompileInputs.cache
+C:\Users\Arda\Desktop\MiniEticaret\EticaretServer\Core\EticaretServer.Application\obj\Debug\net6.0\EticaretServer.Application.csproj.CopyComplete
+C:\Users\Arda\Desktop\MiniEticaret\EticaretServer\Core\EticaretServer.Application\obj\Debug\net6.0\EticaretServer.Application.dll
+C:\Users\Arda\Desktop\MiniEticaret\EticaretServer\Core\EticaretServer.Application\obj\Debug\net6.0\refint\EticaretServer.Application.dll
+C:\Users\Arda\Desktop\MiniEticaret\EticaretServer\Core\EticaretServer.Application\obj\Debug\net6.0\EticaretServer.Application.pdb
+C:\Users\Arda\Desktop\MiniEticaret\EticaretServer\Core\EticaretServer.Application\obj\Debug\net6.0\ref\EticaretServer.Application.dll

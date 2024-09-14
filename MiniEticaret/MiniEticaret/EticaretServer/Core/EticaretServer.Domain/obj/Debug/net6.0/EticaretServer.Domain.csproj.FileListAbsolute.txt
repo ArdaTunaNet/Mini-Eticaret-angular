@@ -1,0 +1,12 @@
+C:\Users\Arda\Desktop\MiniEticaret\EticaretServer\Core\EticaretServer.Domain\bin\Debug\net6.0\EticaretServer.Domain.deps.json
+C:\Users\Arda\Desktop\MiniEticaret\EticaretServer\Core\EticaretServer.Domain\bin\Debug\net6.0\EticaretServer.Domain.dll
+C:\Users\Arda\Desktop\MiniEticaret\EticaretServer\Core\EticaretServer.Domain\bin\Debug\net6.0\EticaretServer.Domain.pdb
+C:\Users\Arda\Desktop\MiniEticaret\EticaretServer\Core\EticaretServer.Domain\obj\Debug\net6.0\EticaretServer.Domain.csproj.AssemblyReference.cache
+C:\Users\Arda\Desktop\MiniEticaret\EticaretServer\Core\EticaretServer.Domain\obj\Debug\net6.0\EticaretServer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arda\Desktop\MiniEticaret\EticaretServer\Core\EticaretServer.Domain\obj\Debug\net6.0\EticaretServer.Domain.AssemblyInfoInputs.cache
+C:\Users\Arda\Desktop\MiniEticaret\EticaretServer\Core\EticaretServer.Domain\obj\Debug\net6.0\EticaretServer.Domain.AssemblyInfo.cs
+C:\Users\Arda\Desktop\MiniEticaret\EticaretServer\Core\EticaretServer.Domain\obj\Debug\net6.0\EticaretServer.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Arda\Desktop\MiniEticaret\EticaretServer\Core\EticaretServer.Domain\obj\Debug\net6.0\EticaretServer.Domain.dll
+C:\Users\Arda\Desktop\MiniEticaret\EticaretServer\Core\EticaretServer.Domain\obj\Debug\net6.0\refint\EticaretServer.Domain.dll
+C:\Users\Arda\Desktop\MiniEticaret\EticaretServer\Core\EticaretServer.Domain\obj\Debug\net6.0\EticaretServer.Domain.pdb
+C:\Users\Arda\Desktop\MiniEticaret\EticaretServer\Core\EticaretServer.Domain\obj\Debug\net6.0\ref\EticaretServer.Domain.dll

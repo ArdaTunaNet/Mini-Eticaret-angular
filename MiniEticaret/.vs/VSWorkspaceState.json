@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ETicaretClient",
+    "\\ETicaretClient\\src",
+    "\\ETicaretClient\\src\\app",
+    "\\ETicaretClient\\src\\app\\admin",
+    "\\ETicaretClient\\src\\app\\admin\\layout",
+    "\\ETicaretClient\\src\\app\\admin\\layout\\components",
+    "\\ETicaretClient\\src\\app\\services\\admin",
+    "\\ETicaretClient\\src\\app\\ui\\components",
+    "\\ETicaretClient\\src\\app\\ui\\components\\products",
+    "\\ETicaretClient\\src\\assets"
+  ],
+  "SelectedNode": "\\EticaretServer\\Core\\EticaretServer.Application\\EticaretServer.Application.csproj",
+  "PreviewInSolutionExplorer": false
+}

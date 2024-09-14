@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "P7XeKxMm+scpINK0v8jl8CALQ/0LyOn+y+MaFvoVb74=",
+  "Source": "EticaretServer.Server",
+  "BasePath": "_content/EticaretServer.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

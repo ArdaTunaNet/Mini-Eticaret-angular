@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Core",
+    "\\Core\\EticaretServer.Domain",
+    "\\Core\\EticaretServer.Domain\\Entities",
+    "\\Core\\EticaretServer.Domain\\Entities\\Common",
+    "\\Infrastructure",
+    "\\Infrastructure\\EticaretServer.Persistence",
+    "\\Infrastructure\\EticaretServer.Persistence\\Contexts",
+    "\\Infrastructure\\EticaretServer.Persistence\\Repositories",
+    "\\Presentation",
+    "\\Presentation\\EticaretServer.Server"
+  ],
+  "SelectedNode": "\\Core\\EticaretServer.Domain\\Entities\\Common\\BaseEntity.cs",
+  "PreviewInSolutionExplorer": false
+}
